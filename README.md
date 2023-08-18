@@ -28,7 +28,7 @@ BudgetBook is built using the following technologies:
 
 ## Getting Started
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/tookstanmay/BudgetBook`
 2. Navigate to the project directory: `cd BudgetBook-Application`
 3. I've used Vite as my development server.
 4. Install dependencies: `npm install`
